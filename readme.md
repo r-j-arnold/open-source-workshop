@@ -3,10 +3,10 @@
 *ittttalic*
 **BADGER *** badger
 # MUSHROOM
-
+TARANTULA
 **booold**
 `*question*`
-
+8 tarantulas!!!
 ~~striiiikethrough~~
 
 ```

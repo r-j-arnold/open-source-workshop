@@ -1,7 +1,7 @@
 # Workshop
 
 *ittttalic*
-**BADGER ***
+**BADGER *** badger
 # MUSHROOM
 
 **booold**

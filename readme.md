@@ -5,7 +5,7 @@
 **booold**
 `*question*`
 
-~striiiikethrough~
+~~striiiikethrough~~
 
 ```
 for a in b:

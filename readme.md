@@ -16,4 +16,4 @@ for a in b:
 
 - a
 - b
--c
+- c
